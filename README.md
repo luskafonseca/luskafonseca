@@ -1,6 +1,6 @@
 ### Olá ! Eu sou o Lucas Fonseca 👋
 
-
+- Graduando em Sistemas de Informação - IFSULDEMINAS
 - 🌱 Estudando front-and e back-and
 - 😄 Pronouns: ele/dele
 <div align="center">
