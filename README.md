@@ -1,8 +1,8 @@
 ### Olá ! Eu sou o Lucas Fonseca 👋
 
 - Graduando em Sistemas de Informação - IFSULDEMINAS
-- 🌱 Estudando front-and e back-and
-- 😄 Pronouns: ele/dele
+- 🌱 Futuro desenvolver FullStack
+
 <div align="center">
   <a href="https://github.com/luskafonseca"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=luskafonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luskafonseca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
