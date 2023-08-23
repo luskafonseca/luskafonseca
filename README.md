@@ -14,9 +14,9 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Luzk-MYSQL" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Luzk-BootStrap" height="40" width="50"
+ <img align="center" alt="Luzk-BootStrap" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="Luzk-Spring" height="40" width="50"
+ <img align="center" alt="Luzk-Spring" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </div>
  
