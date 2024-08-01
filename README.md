@@ -1,7 +1,7 @@
 ### Olá ! Eu sou o Lucas Fonseca 👋
 
-- Graduando em Sistemas de Informação - IFSULDEMINAS
-- 🌱 Futuro desenvolver FullStack
+- Bacharel em Sistemas de Informação - IFSULDEMINAS
+- 🌱 Dev FullStack Jr
 
 
   <div style="display: inline_block"><br>
